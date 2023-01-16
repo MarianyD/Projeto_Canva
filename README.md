@@ -1,0 +1,1 @@
+Nesse exercício fizemos um "simulador" de paint, criamos um canva a qual conseguimos desenhar livremente, e além disso você pode selecionar a cor que quiser.
